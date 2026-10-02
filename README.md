@@ -1,4 +1,4 @@
-# STM32 Cell Switch GUI
+# STM32 Active Cell Balancing GUI , with F407 Firmware
 
 Host GUI for the RTT command interface in `main.c`.
 
